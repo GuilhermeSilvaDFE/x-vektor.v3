@@ -521,24 +521,24 @@ function getDataBase(nunber){
         id: null,
         operationResult: 13,
         vectors:`
-         <div class="draggable" data-x="1.279998779296875" data-y="170.8800277709961" data-colspan="5" style="position: absolute; transform: translate(1.28px, 170.88px) rotate(270deg);" data-name="Vetor" data-colstart="3" data-rowstart="9" data-colend="3" data-rowend="4">
-          <svg class="vetor is-selected" data-angle="270" width="154.38809349423363" viewBox="0 0 154.38809349423363 24" style="outline: yellow dotted 3px;">
+        <div class="draggable" data-x="41.59999084472656" data-y="259.2000274658203" data-colspan="5" data-name="Vetor" data-colstart="4" data-rowstart="10" data-colend="4" data-rowend="5" style="position: absolute; transform: translate(41.6px, 259.2px) rotate(270deg);">
+          <svg class="vetor is-selected" data-angle="270" width="194.65179443359375" viewBox="0 0 194.65179443359375 24" style="outline: yellow dotted 3px;">
             <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
             <polygon id="corpo" fill="black" points="2,10 
-            148.21256975446428,10 
-            154.38809349423363,12 
-            148.21256975446428,14 
-            2,14" data-comprimento="148.21256975446428"></polygon>
+            186.86572265625,10 
+            194.65179443359375,12 
+            186.86572265625,14 
+            2,14" data-comprimento="186.86572265625"></polygon>
             <polygon id="cabeca" fill="black"></polygon>
           </svg>
-        </div><div class="draggable" data-x="262.39996337890625" data-y="190.08001708984375" data-colspan="12" style="position: absolute; transform: translate(262.4px, 190.08px) rotate(0deg);" data-name="Vetor" data-colstart="9" data-rowstart="7" data-colend="21" data-rowend="7">
-          <svg class="vetor is-selected" data-angle="0" width="370.53142438616067" viewBox="0 0 370.53142438616067 24" style="outline: none;">
+        </div><div class="draggable" data-x="294.4000244140625" data-y="280.8000030517578" data-colspan="12" data-name="Vetor" data-colstart="8" data-rowstart="8" data-colend="20" data-rowend="8" style="position: absolute; transform: translate(294.4px, 280.8px) rotate(0deg);">
+          <svg class="vetor is-selected" data-angle="0" width="467.164306640625" viewBox="0 0 467.164306640625 24" style="outline: none;">
             <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
             <polygon id="corpo" fill="black" points="2,10 
-            364.3559006463913,10 
-            370.53142438616067,12 
-            364.3559006463913,14 
-            2,14" data-comprimento="364.3559006463913"></polygon>
+            459.37823486328125,10 
+            467.164306640625,12 
+            459.37823486328125,14 
+            2,14" data-comprimento="459.37823486328125"></polygon>
             <polygon id="cabeca" fill="black"></polygon>
           </svg>
         </div>
@@ -645,24 +645,24 @@ function getDataBase(nunber){
         id: null,
         operationResult: 10,
         vectors:`
-          <div class="draggable" data-x="55.040008544921875" data-y="63.99999237060547" data-colspan="16" style="position: absolute; transform: translate(55.04px, 64px) rotate(0deg);" data-name="Vetor" data-colstart="2" data-rowstart="3" data-colend="18" data-rowend="3">
-            <svg class="vetor is-selected" data-angle="0" width="494.0418991815476" viewBox="0 0 494.0418991815476 24" style="outline: none;">
+         <div class="draggable" data-x="99.20001220703125" data-y="82.40000915527344" data-colspan="16" data-name="Vetor" data-colstart="3" data-rowstart="3" data-colend="19" data-rowend="3" style="position: absolute; transform: translate(99.2px, 82.4px) rotate(0deg);">
+            <svg class="vetor is-selected" data-angle="0" width="622.8857421875" viewBox="0 0 622.8857421875 24" style="outline: yellow dotted 3px;">
               <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
               <polygon id="corpo" fill="black" points="2,10 
-              487.86637544177825,10 
-              494.0418991815476,12 
-              487.86637544177825,14 
-              2,14" data-comprimento="487.86637544177825"></polygon>
+              615.0996704101562,10 
+              622.8857421875,12 
+              615.0996704101562,14 
+              2,14" data-comprimento="615.0996704101562"></polygon>
               <polygon id="cabeca" fill="black"></polygon>
             </svg>
-          </div><div class="draggable" data-x="203.5199737548828" data-y="344.3199920654297" data-colspan="6" style="position: absolute; transform: translate(203.52px, 344.32px) rotate(0deg);" data-name="Vetor" data-colstart="7" data-rowstart="12" data-colend="13" data-rowend="12">
-            <svg class="vetor is-selected" data-angle="0" width="185.26571219308033" viewBox="0 0 185.26571219308033 24" style="outline: yellow dotted 3px;">
+          </div><div class="draggable" data-x="252.8000030517578" data-y="359.19998931884766" data-colspan="6" data-name="Vetor" data-colstart="1" data-rowstart="1" data-colend="7" data-rowend="1" style="position: absolute; transform: translate(252.8px, 359.2px) rotate(0deg);">
+            <svg class="vetor is-selected" data-angle="0" width="233.5821533203125" viewBox="0 0 233.5821533203125 24" style="outline: none;">
               <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
               <polygon id="corpo" fill="black" points="2,10 
-              179.090188453311,10 
-              185.26571219308033,12 
-              179.090188453311,14 
-              2,14" data-comprimento="179.090188453311"></polygon>
+              225.79608154296875,10 
+              233.5821533203125,12 
+              225.79608154296875,14 
+              2,14" data-comprimento="225.79608154296875"></polygon>
               <polygon id="cabeca" fill="black"></polygon>
             </svg>
           </div>
@@ -707,28 +707,27 @@ function getDataBase(nunber){
         id: null,
         operationResult: 14,
         vectors:`
-          <div class="draggable" data-x="14.720001220703125" data-y="158.08000946044922" data-colspan="4" style="position: absolute; transform: translate(14.72px, 158.08px) rotate(0deg);" data-name="Vetor" data-colstart="1" data-rowstart="6" data-colend="5" data-rowend="6">
-              <svg class="vetor is-selected" data-angle="0" width="123.5104747953869" viewBox="0 0 123.5104747953869 24" style="outline: none;">
-                <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
-                <polygon id="corpo" fill="black" points="2,10 
-                117.33495105561755,10 
-                123.5104747953869,12 
-                117.33495105561755,14 
-                2,14" data-comprimento="117.33495105561755"></polygon>
-                <polygon id="cabeca" fill="black"></polygon>
-              </svg>
-            </div><div class="draggable" data-x="263.03997802734375" data-y="189.44001007080078" data-colspan="2" style="position: absolute; transform: translate(263.04px, 189.44px) rotate(0deg);" data-name="Vetor" data-colstart="9" data-rowstart="7" data-colend="11" data-rowend="7">
-              <svg class="vetor is-selected" data-angle="0" width="61.75523739769345" viewBox="0 0 61.75523739769345 24" style="outline: yellow dotted 3px;">
-                <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
-                <polygon id="corpo" fill="black" points="2,10 
-                55.5797136579241,10 
-                61.75523739769345,12 
-                55.5797136579241,14 
-                2,14" data-comprimento="55.5797136579241"></polygon>
-                <polygon id="cabeca" fill="black"></polygon>
-              </svg>
-          </div>
-
+         <div class="draggable" data-x="20.800003051757812" data-y="164.79999542236328" data-colspan="4" data-name="Vetor" data-colstart="1" data-rowstart="1" data-colend="5" data-rowend="1" style="position: absolute; transform: translate(20.8px, 164.8px) rotate(0deg);">
+          <svg class="vetor is-selected" data-angle="0" width="155.721435546875" viewBox="0 0 155.721435546875 24" style="outline: yellow dotted 3px;">
+            <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
+            <polygon id="corpo" fill="black" points="2,10 
+            147.93536376953125,10 
+            155.721435546875,12 
+            147.93536376953125,14 
+            2,14" data-comprimento="147.93536376953125"></polygon>
+            <polygon id="cabeca" fill="black"></polygon>
+          </svg>
+        </div><div class="draggable" data-x="410.4000015258789" data-y="320.00000762939453" data-colspan="2" data-name="Vetor" data-colstart="11" data-rowstart="9" data-colend="13" data-rowend="9" style="position: absolute; transform: translate(410.4px, 320px) rotate(0deg);">
+          <svg class="vetor is-selected" data-angle="0" width="77.8607177734375" viewBox="0 0 77.8607177734375 24" style="outline: none;">
+            <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
+            <polygon id="corpo" fill="black" points="2,10 
+            70.07464599609375,10 
+            77.8607177734375,12 
+            70.07464599609375,14 
+            2,14" data-comprimento="70.07464599609375"></polygon>
+            <polygon id="cabeca" fill="black"></polygon>
+          </svg>
+        </div>
         `,
         vectorsResult:`
         <div class="draggable" data-x="46.720001220703125" data-y="157.43999481201172" data-colspan="8" style="position: absolute; transform: translate(46.72px, 157.44px) rotate(0deg);" data-name="Vetor" data-colstart="2" data-rowstart="6" data-colend="10" data-rowend="6">
@@ -771,26 +770,26 @@ function getDataBase(nunber){
         id: null,
         operationResult: 16,
         vectors:`
-          <div class="draggable" data-x="-17.920005798339844" data-y="61.43999481201172" data-colspan="4" style="position: absolute; transform: translate(-17.92px, 61.44px) rotate(90deg);" data-name="Vetor" data-colstart="2" data-rowstart="1" data-colend="2" data-rowend="5">
-              <svg class="vetor is-selected" data-angle="90" width="123.5104747953869" viewBox="0 0 123.5104747953869 24" style="outline: none;">
-                <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
-                <polygon id="corpo" fill="black" points="2,10 
-                117.33495105561755,10 
-                123.5104747953869,12 
-                117.33495105561755,14 
-                2,14" data-comprimento="117.33495105561755"></polygon>
-                <polygon id="cabeca" fill="black"></polygon>
-              </svg>
-            </div><div class="draggable" data-x="105.59999084472656" data-y="122.23998260498047" data-colspan="8" style="position: absolute; transform: translate(105.6px, 122.24px) rotate(90deg);" data-name="Vetor" data-colstart="8" data-rowstart="1" data-colend="8" data-rowend="9">
-              <svg class="vetor is-selected" data-angle="90" width="247.0209495907738" viewBox="0 0 247.0209495907738 24" style="outline: yellow dotted 3px;">
-                <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
-                <polygon id="corpo" fill="black" points="2,10 
-                240.84542585100445,10 
-                247.0209495907738,12 
-                240.84542585100445,14 
-                2,14" data-comprimento="240.84542585100445"></polygon>
-                <polygon id="cabeca" fill="black"></polygon>
-              </svg>
+         <div class="draggable" data-x="484.8000183105469" data-y="196.80001831054688" data-colspan="8" data-name="Vetor" data-colstart="17" data-rowstart="2" data-colend="17" data-rowend="10" style="position: absolute; transform: translate(484.8px, 196.8px) rotate(90deg);">
+            <svg class="vetor is-selected" data-angle="90" width="311.44287109375" viewBox="0 0 311.44287109375 24" style="outline: yellow dotted 3px;">
+              <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
+              <polygon id="corpo" fill="black" points="2,10 
+              303.65679931640625,10 
+              311.44287109375,12 
+              303.65679931640625,14 
+              2,14" data-comprimento="303.65679931640625"></polygon>
+              <polygon id="cabeca" fill="black"></polygon>
+            </svg>
+          </div><div class="draggable" data-x="-19.199996948242188" data-y="118.40000915527344" data-colspan="4" data-name="Vetor" data-colstart="2" data-rowstart="2" data-colend="2" data-rowend="6" style="position: absolute; transform: translate(-19.2px, 118.4px) rotate(90deg);">
+            <svg class="vetor is-selected" data-angle="90" width="155.721435546875" viewBox="0 0 155.721435546875 24" style="outline: none;">
+              <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
+              <polygon id="corpo" fill="black" points="2,10 
+              147.93536376953125,10 
+              155.721435546875,12 
+              147.93536376953125,14 
+              2,14" data-comprimento="147.93536376953125"></polygon>
+              <polygon id="cabeca" fill="black"></polygon>
+            </svg>
           </div>
         `,
         vectorsResult:`
@@ -832,24 +831,24 @@ function getDataBase(nunber){
         id: null,
         operationResult: 4,
         vectors:`
-          <div class="draggable" data-x="43.519989013671875" data-y="220.79998779296875" data-colspan="10" style="position: absolute; transform: translate(43.52px, 220.8px) rotate(0deg);" data-name="Vetor" data-colstart="2" data-rowstart="8" data-colend="12" data-rowend="8">
-            <svg class="vetor is-selected" data-angle="0" width="308.77618698846726" viewBox="0 0 308.77618698846726 24" style="outline: none;">
+           <div class="draggable" data-x="369.6000213623047" data-y="430.4000244140625" data-colspan="6" data-name="Vetor" data-colstart="16" data-rowstart="12" data-colend="10" data-rowend="12" style="position: absolute; transform: translate(369.6px, 430.4px) rotate(180deg);">
+            <svg class="vetor is-selected" data-angle="180" width="233.5821533203125" viewBox="0 0 233.5821533203125 24" style="outline: yellow dotted 3px;">
               <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
               <polygon id="corpo" fill="black" points="2,10 
-              302.6006632486979,10 
-              308.77618698846726,12 
-              302.6006632486979,14 
-              2,14" data-comprimento="302.6006632486979"></polygon>
+              225.79608154296875,10 
+              233.5821533203125,12 
+              225.79608154296875,14 
+              2,14" data-comprimento="225.79608154296875"></polygon>
               <polygon id="cabeca" fill="black"></polygon>
             </svg>
-          </div><div class="draggable" data-x="289.9199981689453" data-y="278.39998626708984" data-colspan="6" style="position: absolute; transform: translate(289.92px, 278.4px) rotate(180deg);" data-name="Vetor" data-colstart="16" data-rowstart="10" data-colend="10" data-rowend="10">
-            <svg class="vetor is-selected" data-angle="180" width="185.26571219308033" viewBox="0 0 185.26571219308033 24" style="outline: yellow dotted 3px;">
+          </div><div class="draggable" data-x="98.39999389648438" data-y="360.0000457763672" data-colspan="10" data-name="Vetor" data-colstart="3" data-rowstart="7" data-colend="13" data-rowend="7" style="position: absolute; transform: translate(98.4px, 360px) rotate(0deg);">
+            <svg class="vetor is-selected" data-angle="0" width="389.3035888671875" viewBox="0 0 389.3035888671875 24" style="outline: none;">
               <polygon id="base" fill="black" points="0,10 2,10 2,14 0,14"></polygon>
               <polygon id="corpo" fill="black" points="2,10 
-              179.090188453311,10 
-              185.26571219308033,12 
-              179.090188453311,14 
-              2,14" data-comprimento="179.090188453311"></polygon>
+              381.51751708984375,10 
+              389.3035888671875,12 
+              381.51751708984375,14 
+              2,14" data-comprimento="381.51751708984375"></polygon>
               <polygon id="cabeca" fill="black"></polygon>
             </svg>
           </div>
@@ -1292,6 +1291,7 @@ function clearInputValueVector(input){
 
 
   
+
 
 
 
