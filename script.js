@@ -906,28 +906,28 @@ function getDataBase(nunber){
   // return JSON.parse(localStorage.getItem("dataBase")) 
 }
 
-// localStorage.setItem("vectorsRegisted", JSON.stringify([]))
-// function registrar(){
-//     let conjuntoOfVectors = document.querySelectorAll(".draggable")
-//     let vectorsRegisted =  JSON.parse(localStorage.getItem("vectorsRegisted"))
+localStorage.setItem("vectorsRegisted", JSON.stringify([]))
+function registrar(){
+    let conjuntoOfVectors = document.querySelectorAll(".draggable")
+    let vectorsRegisted =  JSON.parse(localStorage.getItem("vectorsRegisted"))
     
-//     txt = document.createElement("div")
+    txt = document.createElement("div")
  
-//     for(i=0; i< conjuntoOfVectors.length; i++){
-//       txt.appendChild(conjuntoOfVectors[i])
-//     }
-//     console.log(txt.innerHTML)
+    for(i=0; i< conjuntoOfVectors.length; i++){
+      txt.appendChild(conjuntoOfVectors[i])
+    }
+    console.log(txt.innerHTML)
     
     
-//     vectorsRegisted[vectorsRegisted.length] = txt.innerHTML
+    vectorsRegisted[vectorsRegisted.length] = txt.innerHTML
 
-//     localStorage.setItem("vectorsRegisted", JSON.stringify(vectorsRegisted))
+    localStorage.setItem("vectorsRegisted", JSON.stringify(vectorsRegisted))
 
     
    
     
 
-// }
+}
 
 
 
@@ -1292,6 +1292,7 @@ function clearInputValueVector(input){
 
 
   
+
 
 
 
